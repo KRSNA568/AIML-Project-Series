@@ -12,3 +12,48 @@ Project Requirements:
 4. Error Handling: 
  - Implement basic error handling to address scenarios where the chatbot does  not understand the user's input. 
  - Provide a friendly response in such cases. 
+
+
+
+Project 2: Basic Q & A Bot for College Admission
+- Level: Medium
+Project Requirements:
+1. Admission-Related Q&A:
+- Develop a chatbot specifically designed to answer questions related to
+college admission.
+- Include responses to queries about admission procedures, requirements, and
+deadlines.
+2. User Interaction:
+- Create a flow where the chatbot engages the user in a conversation about their
+admission queries.
+- Allow the user to ask multiple questions in a single session.
+3. Contextual Understanding:
+- Enhance the chatbot's ability to understand context by remembering
+information from previous interactions.
+- Implement a mechanism for the chatbot to provide more personalized
+responses.
+4. Connection to Backend(Optional):
+- Integrate the chatbot with a backend system to fetch real-time
+admission-related information.
+- Ensure the chatbot responses are up-to-date and accurate.
+5. Error Handling and Feedback:
+- Implement robust error handling for cases where the chatbot encounters
+queries it cannot answer.
+- Provide users with helpful feedback when their queries cannot be addressed.
+
+
+PROJECT:3
+Project Title: Disease Prediction System using Machine Learning
+Project Details:
+Domain: Artificial Intelligence and Machine Learning
+Project Name: Disease Prediction System
+Level: Intermediate
+Project Description:
+The "Disease Prediction System using Machine Learning" project aims to
+develop an intelligent system that predicts the likelihood of a person having a
+particular disease based on various health-related features. The system will
+utilize machine learning algorithms to analyze historical health data and make
+predictions, contributing to early disease detection and proactive healthcare
+management.
+
+
